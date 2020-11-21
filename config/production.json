@@ -1,0 +1,6 @@
+{
+  "port": 2332,
+  "mongoURI": "mongodb+srv://Jack:102031@cluster0.82ugm.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "qwertymag",
+  "baseUrl": "http://localhost:2332"
+}
